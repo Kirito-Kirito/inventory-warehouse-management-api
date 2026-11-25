@@ -98,5 +98,6 @@ Once the server is running, access the interactive documentation at:
 ## Running Tests
 Run the test suite with verbose output:
 ```bash
+python manage.py test inventory
 python manage.py test -v 2
 ```

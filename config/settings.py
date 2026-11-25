@@ -177,6 +177,7 @@ SPECTACULAR_SETTINGS = {
     'DESCRIPTION': 'Backend REST API for inventory, products, and stock movements with RBAC and JWT authentication.',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
+    "REDOC_DIST": "https://cdn.jsdelivr.net/npm/redoc@2.5.4",
 }
 
 # SIMPLE_JWT = {
